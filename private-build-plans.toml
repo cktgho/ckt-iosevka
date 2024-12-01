@@ -8,7 +8,7 @@ exportGlyphNames = false
 	[buildPlans.IosevkaCkt.variants.design]
 	one = "base"
 	four = "closed-serifless"
-	seven = "straight-serifless-crossbar"
+	seven = "straight-serifless"
 	zero = "oval-tall-slashed"
 	capital-q = "crossing-baseline"
 	f = "flat-hook-serifless"
@@ -65,7 +65,7 @@ exportGlyphNames = false
 	[buildPlans.IosevkaCktFixedSpacing.variants.design]
 	one = "base"
 	four = "closed-serifless"
-	seven = "straight-serifless-crossbar"
+	seven = "straight-serifless"
 	zero = "oval-tall-slashed"
 	capital-q = "crossing-baseline"
 	f = "flat-hook-serifless"
