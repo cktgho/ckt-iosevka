@@ -7,7 +7,7 @@ node_modules
 
 # Build artifacts
 .build
-dist
+# dist
 release-archives
 
 # Generated files
@@ -16,9 +16,9 @@ packages/font-glyphs/src/**/*.mjs
 packages/font-otl/src/**/*.mjs
 
 # Private config files
-private.toml
-private-build-plans.toml
-params/private-parameters.toml
+# private.toml
+# private-build-plans.toml
+# params/private-parameters.toml
 
 # pages-source ignores
 .next
