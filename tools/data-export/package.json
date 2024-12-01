@@ -1,0 +1,18 @@
+{
+  "name": "@iosevka/data-export",
+  "version": "32.2.0",
+  "private": true,
+  "exports": {
+    ".": "./src/index.mjs",
+    "./ligation-data": "./src/ligation-data.mjs",
+    "./variants-data": "./src/variants-data.mjs",
+    "./supported-languages": "./src/supported-languages.mjs"
+  },
+  "dependencies": {
+    "@iarna/toml": "^2.2.5",
+    "@iosevka/param": "32.2.0",
+    "@unicode/unicode-16.0.0": "^1.6.4",
+    "cldr": "^7.6.0",
+    "@msgpack/msgpack": "^2.8.0"
+  }
+}
